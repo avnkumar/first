@@ -8,6 +8,7 @@ public class Test
 		System.out.println(10-20);
 		System.out.println(10*20);
 		System.out.println(10/20);
+		System.out.println(10%20);
 	}
 
 }
